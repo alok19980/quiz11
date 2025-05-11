@@ -1,4 +1,4 @@
 # quiz11
 Quiz11 - Fantasy Quiz Website UI Template
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/alok19980/quiz11/blob/main/screenshot.png?raw=true)
